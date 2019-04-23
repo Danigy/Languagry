@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Languagry</string>
+    <string name="Listen">Listen</string>
+
+    <string-array name="word_types">
+        <item>Noun</item>
+        <item>Verb</item>
+        <item>Adjective</item>
+        <item>Adverb</item>
+        <item>Pronoun</item>
+        <item>Preposition</item>
+        <item>Conjunction</item>
+        <item>Determiner</item>
+        <item>Phrase</item>
+        <item>Exclamation</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item> Male </item>
+        <item> Female </item>
+        <item> Not Applicable </item>
+    </string-array>
+</resources>
